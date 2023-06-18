@@ -36,7 +36,7 @@ export const projects = [
   },
   {
     title: "React Portfolio",
-    url: "https://sjbossa.github.io/Mod-20-React-Portfolio/",
+    url: "https://sjbossa.github.io/Mod-20-React-Portfolio/#portfolio",
     image: imgReactPortfolio,
     description:
       "Challenge #20 This assignment was to build a personal portfolio using React and Syntactically Awesome Style Sheets.  It is a single-page application that meets the progressive web application (PWA) criteria.",

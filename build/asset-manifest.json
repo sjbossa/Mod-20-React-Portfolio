@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mod-20-React-Portfolio/static/css/main.d5230326.css",
-    "main.js": "/Mod-20-React-Portfolio/static/js/main.cbaba80c.js",
+    "main.js": "/Mod-20-React-Portfolio/static/js/main.cafb827b.js",
     "static/media/semantic-code-refactor.png": "/Mod-20-React-Portfolio/static/media/semantic-code-refactor.ba3ac794d64e2b3515fa.png",
     "static/media/portfolio.png": "/Mod-20-React-Portfolio/static/media/portfolio.4858146f2d1c60a278e7.png",
     "static/media/your-habit-tracker.png": "/Mod-20-React-Portfolio/static/media/your-habit-tracker.1c25c5faead6bb5952b6.png",
@@ -19,10 +19,10 @@
     "static/media/github.svg": "/Mod-20-React-Portfolio/static/media/github.b7c08b5ad64a5af85516b8ec5b67339f.svg",
     "static/media/linkedin.svg": "/Mod-20-React-Portfolio/static/media/linkedin.2f72048cac99eb15f4c8fe8ef1ec5562.svg",
     "main.d5230326.css.map": "/Mod-20-React-Portfolio/static/css/main.d5230326.css.map",
-    "main.cbaba80c.js.map": "/Mod-20-React-Portfolio/static/js/main.cbaba80c.js.map"
+    "main.cafb827b.js.map": "/Mod-20-React-Portfolio/static/js/main.cafb827b.js.map"
   },
   "entrypoints": [
     "static/css/main.d5230326.css",
-    "static/js/main.cbaba80c.js"
+    "static/js/main.cafb827b.js"
   ]
 }
