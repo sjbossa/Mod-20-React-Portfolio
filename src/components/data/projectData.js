@@ -1,5 +1,5 @@
 // import project images
-
+import imgOneStopCodingJobBoard from "../../images/one-stop-coding-job-board.jpg";
 import imgYourHabitTracker from "../../images/your-habit-tracker.png";
 import imgTheNightSky from "../../images/the-night-sky2.png";
 import imgPersonnelTracker from "../../images/personnel-tracker.jpg";
@@ -14,6 +14,16 @@ import imgSemanticCodeRefactor from "../../images/semantic-code-refactor.png";
 import imgReactPortfolio from "../../images/react-portfolio.jpg";
 
 export const projects = [
+  {
+    title: "One Stop Coding Job Board",
+    url: "https://codingjobboard-d93ad0d875e7.herokuapp.com/",
+    image: imgOneStopCodingJobBoard.jpg,
+    description:
+      "Project #3 This project was to build an application the allows a user to view existing coding jobs posted by potential employers.",
+    technologies:
+      "Express.js, MongoDB, Mongoose, React, Apollo-server, Lodash & Graphql",
+    GitHubRepo: "https://github.com/Palejrey/OneStopCodingJobBoard",
+  },
   {
     title: "Your Habit Tracker",
     url: "https://your-habit-tracker.herokuapp.com/login/",
