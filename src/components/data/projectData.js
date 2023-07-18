@@ -17,7 +17,7 @@ export const projects = [
   {
     title: "One Stop Coding Job Board",
     url: "https://codingjobboard-d93ad0d875e7.herokuapp.com/",
-    image: imgOneStopCodingJobBoard.jpg,
+    image: imgOneStopCodingJobBoard,
     description:
       "Project #3 This project was to build an application the allows a user to view existing coding jobs posted by potential employers.",
     technologies:
