@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/Mod-20-React-Portfolio/static/css/main.d5230326.css",
-    "main.js": "/Mod-20-React-Portfolio/static/js/main.cafb827b.js",
+    "main.js": "/Mod-20-React-Portfolio/static/js/main.361c1e29.js",
     "static/media/semantic-code-refactor.png": "/Mod-20-React-Portfolio/static/media/semantic-code-refactor.ba3ac794d64e2b3515fa.png",
     "static/media/portfolio.png": "/Mod-20-React-Portfolio/static/media/portfolio.4858146f2d1c60a278e7.png",
     "static/media/your-habit-tracker.png": "/Mod-20-React-Portfolio/static/media/your-habit-tracker.1c25c5faead6bb5952b6.png",
     "static/media/the-night-sky2.png": "/Mod-20-React-Portfolio/static/media/the-night-sky2.9273d1543f53d885661c.png",
     "static/media/react-portfolio.jpg": "/Mod-20-React-Portfolio/static/media/react-portfolio.0c1d40493ade391e60f2.jpg",
+    "static/media/one-stop-coding-job-board.jpg": "/Mod-20-React-Portfolio/static/media/one-stop-coding-job-board.9cafc2de46d5f74afc6f.jpg",
     "static/media/personnel-tracker.jpg": "/Mod-20-React-Portfolio/static/media/personnel-tracker.67baf898b6088399ae25.jpg",
     "static/media/readme-generator.jpg": "/Mod-20-React-Portfolio/static/media/readme-generator.ace30b4fa12d511f1cf9.jpg",
     "static/media/work-day-scheduler.jpg": "/Mod-20-React-Portfolio/static/media/work-day-scheduler.a54977f079cad1c20d7c.jpg",
@@ -19,10 +20,10 @@
     "static/media/github.svg": "/Mod-20-React-Portfolio/static/media/github.b7c08b5ad64a5af85516b8ec5b67339f.svg",
     "static/media/linkedin.svg": "/Mod-20-React-Portfolio/static/media/linkedin.2f72048cac99eb15f4c8fe8ef1ec5562.svg",
     "main.d5230326.css.map": "/Mod-20-React-Portfolio/static/css/main.d5230326.css.map",
-    "main.cafb827b.js.map": "/Mod-20-React-Portfolio/static/js/main.cafb827b.js.map"
+    "main.361c1e29.js.map": "/Mod-20-React-Portfolio/static/js/main.361c1e29.js.map"
   },
   "entrypoints": [
     "static/css/main.d5230326.css",
-    "static/js/main.cafb827b.js"
+    "static/js/main.361c1e29.js"
   ]
 }
